@@ -2,7 +2,6 @@
 class NanoCoder < Formula
   desc "6MB coding agent. Run a fleet on your laptop"
   homepage "https://github.com/nanobpm/nano-coder"
-  version "0.67.0"
   license "Apache-2.0"
 
   on_macos do
