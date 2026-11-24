@@ -6,23 +6,23 @@ class NanoCoder < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/nanobpm/nano-coder/releases/download/v1.31.1/nano-coder-1.31.1-aarch64-apple-darwin.tar.gz"
-      sha256 "0e98cfccc6e34f4f39a3752f442f7635017b60ef8b48a8e449046d958181e5b2"
+      url "https://github.com/nanobpm/nano-coder/releases/download/v1.31.2/nano-coder-1.31.2-aarch64-apple-darwin.tar.gz"
+      sha256 "f7cce88c9d58ad5dc3c7fa328ad885db71bde0c4e2cf122a7ebdbec8408984b6"
     end
     on_intel do
-      url "https://github.com/nanobpm/nano-coder/releases/download/v1.31.1/nano-coder-1.31.1-x86_64-apple-darwin.tar.gz"
-      sha256 "0792489f2e7ad3e6b26c72011222356eef2533a06dd234c59a9729e3aaf29708"
+      url "https://github.com/nanobpm/nano-coder/releases/download/v1.31.2/nano-coder-1.31.2-x86_64-apple-darwin.tar.gz"
+      sha256 "fc9b5dd407172a94b6a0e1b856637ef1b7ac6708f0b3df7f751ec33648b4005d"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/nanobpm/nano-coder/releases/download/v1.31.1/nano-coder-1.31.1-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "08fca796add1ed29b57457f6a7041921a3d478a88c1005275572e962e6c0f88c"
+      url "https://github.com/nanobpm/nano-coder/releases/download/v1.31.2/nano-coder-1.31.2-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "1637d26c7ba0f58e23526391448d7c5708d8907dd983487f1925fb50f3067979"
     end
     on_intel do
-      url "https://github.com/nanobpm/nano-coder/releases/download/v1.31.1/nano-coder-1.31.1-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "46ba552a88c3b67bee2f67b3e1e79f1496d635e9aadb55181e1a0cbc8610a545"
+      url "https://github.com/nanobpm/nano-coder/releases/download/v1.31.2/nano-coder-1.31.2-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "031a2b3a6c31fd2cac1a91c4bbac5bc8e31635ed7c2234811bd951e501952670"
     end
   end
 
